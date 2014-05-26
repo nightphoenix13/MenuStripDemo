@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.pdb
